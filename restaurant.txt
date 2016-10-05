@@ -1,0 +1,7 @@
+Banquise: 10
+McDonald: 50
+Subway: 30
+Chinois: 60
+1000DeLaGauchetière: 20
+Metro: 20
+TimHorton: 20
