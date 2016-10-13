@@ -1,7 +1,11 @@
-Banquise: 10
+Banquise: 5
+BrasseurDeMontreal: 10
+Pub: 20
 McDonald: 50
 Subway: 30
 Chinois: 60
 1000DeLaGauchetière: 20
 Metro: 20
-TimHorton: 20
+TimHorton: 30
+adonis: 20
+amir: 20
