@@ -10,7 +10,7 @@ for line in fo:
 		restoList.append(name)
 		
 restaurant_number = randint(0,len(restoList))
-print restoList[restaurant_number]
+print (restoList[restaurant_number])
 
 
 fo.close()

@@ -1,6 +1,6 @@
 Banquise: 5
 BrasseurDeMontreal: 10
-Pub: 20
+Pub: 10
 McDonald: 50
 Subway: 30
 Chinois: 50
@@ -9,4 +9,4 @@ Metro: 40
 TimHorton: 30
 adonis: 30
 amir: 10
-saint-hubert: 20
+AW: 40
